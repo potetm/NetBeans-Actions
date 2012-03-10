@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.potetm.netbeansactions.actions
+OpenIDE-Module-Localizing-Bundle: com/potetm/netbeansactions/actions/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
